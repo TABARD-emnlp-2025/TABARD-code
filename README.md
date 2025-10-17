@@ -3,7 +3,7 @@
 **TABARD** is a benchmark for **Tabular Anomaly Analysis, Reasoning, and Detection**, designed to evaluate the ability of models to detect fine-grained anomalies in tabular data.  
 
 **NOTE**: For the dataset please visit this github repository [https://github.com/TABARD-emnlp-2025/TABARD-dataset.git]
-
+Refer to the website of the project for more info [https://tabard-emnlp-2025.github.io/]
 This repository contains code to:
 
 - Generate synthetic tabular datasets with controlled, labeled anomalies across multiple anomaly categories,
